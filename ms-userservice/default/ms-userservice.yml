@@ -7,7 +7,7 @@ spring:
     username: sa
     password:
   kafka:
-    bootstrap-severs: localhost:9092
+    bootstrap-servers: localhost:9092
     topic:
       userCreated: USER_CREATED_TOPIC
 security:
